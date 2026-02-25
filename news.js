@@ -37,7 +37,7 @@ Diversifying across residential, commercial, and mixed-use properties can also r
       id: 3,
       title: "How to Sell Your First Home",
       desc: "A beginner's guide to mortgages and property selection.",
-      img: "https://images.unsplash.com/photo-1572120360610-d971b9d7767c?auto=format&fit=crop&w=400&q=60",
+      img: "https://images.unsplash.com/photo-1600573472550-8090b5e0745e?auto=format&fit=crop&w=400&q=60",
       content: `Buying your first home can feel overwhelming Before investing, it is important to analyze market trends, rental yield percentages, population growth, and upcoming government projects. 
 Diversifying across residential, commercial, and mixed-use properties can also reduce risk while maximizing returns.`
     }
